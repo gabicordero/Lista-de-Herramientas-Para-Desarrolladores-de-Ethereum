@@ -8,18 +8,18 @@ Este recurso se centra en las herramientas para desarrolladores, pero el reposit
 
 # Nuevos desarrolladores empiezan aqui
 
-Solidity - El lenguaje de contratos inteligentes más popular.
-Metamask - Monedero de extensión del navegador para interactuar con Dapps.
-Truffle - El marco más popular de desarrollo, prueba y despliegue de contratos inteligentes. Instala el cli vía npm y comienza aquí a escribir tus primeros contratos inteligentes.
-Cajas Truffle - Componentes empaquetados para el ecosistema Ethereum.
-Hardhat - Entorno de desarrollo de Ethereum flexible, extensible y rápido.
-Cryptotux - Una imagen de Linux lista para ser importada en VirtualBox que incluye las herramientas de desarrollo mencionadas anteriormente
-OpenZeppelin Starter Kits - Una caja de inicio todo en uno para que los desarrolladores inicien sus aplicaciones respaldadas por contratos inteligentes. Incluye Truffle, OpenZeppelin SDK, el paquete OpenZeppelin/contracts-ethereum-package EVM de contrato inteligente auditado, una react-app y rimble para facilitar el estilo.
-EthHub.io - Visión general completa de Ethereum, su historia, gobierno, planes futuros y recursos de desarrollo.
-EthereumDev.io - La guía definitiva para iniciarse en la programación de contratos inteligentes de Ethereum.
-Brownie - Brownie es un marco de trabajo en Python para desplegar, probar e interactuar con los contratos inteligentes de Ethereum.
-Ethereum Stack Exchange - Publique y busque preguntas para ayudar a su ciclo de vida de desarrollo.
-dfuse - APIs de blockchain para construir aplicaciones de clase mundial.
-Biconomy - Realiza transacciones sin gas en tu dapp habilitando meta-transacciones utilizando un SDK sencillo de usar.
-Blocknative - Eventos de blockchain antes de que ocurran. La cartera de herramientas para desarrolladores de Blocknative facilita la construcción con datos de mempool.
-useWeb3.xyz - Un resumen curado de los mejores y más recientes recursos sobre Ethereum, blockchain y desarrollo Web3.
+- Solidity - El lenguaje de contratos inteligentes más popular.
+- Metamask - Monedero de extensión del navegador para interactuar con Dapps.
+- Truffle - El marco más popular de desarrollo, prueba y despliegue de contratos inteligentes. Instala el cli vía npm y comienza aquí a escribir tus primeros contratos inteligentes.
+- Cajas Truffle - Componentes empaquetados para el ecosistema Ethereum.
+- Hardhat - Entorno de desarrollo de Ethereum flexible, extensible y rápido.
+- Cryptotux - Una imagen de Linux lista para ser importada en VirtualBox que incluye las herramientas de desarrollo mencionadas anteriormente
+- OpenZeppelin Starter Kits - Una caja de inicio todo en uno para que los desarrolladores inicien sus aplicaciones respaldadas por contratos inteligentes. Incluye Truffle, OpenZeppelin SDK, el paquete OpenZeppelin/contracts-ethereum-package EVM de contrato inteligente auditado, una react-app y rimble para facilitar el estilo.
+- EthHub.io - Visión general completa de Ethereum, su historia, gobierno, planes futuros y recursos de desarrollo.
+- EthereumDev.io - La guía definitiva para iniciarse en la programación de contratos inteligentes de Ethereum.
+- Brownie - Brownie es un marco de trabajo en Python para desplegar, probar e interactuar con los contratos inteligentes de Ethereum.
+- Ethereum Stack Exchange - Publique y busque preguntas para ayudar a su ciclo de vida de desarrollo.
+- dfuse - APIs de blockchain para construir aplicaciones de clase mundial.
+- Biconomy - Realiza transacciones sin gas en tu dapp habilitando meta-transacciones utilizando un SDK sencillo de usar.
+- Blocknative - Eventos de blockchain antes de que ocurran. La cartera de herramientas para desarrolladores de Blocknative facilita la construcción con datos de mempool.
+- useWeb3.xyz - Un resumen curado de los mejores y más recientes recursos sobre Ethereum, blockchain y desarrollo Web3.
