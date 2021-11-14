@@ -22,4 +22,4 @@ Este recurso se centra en las herramientas para desarrolladores, pero el reposit
 - <a href="https://streamingfast.io/">dfuse</a> - APIs de blockchain para construir aplicaciones de clase mundial.
 - <a href="https://www.biconomy.io/">Biconomy</a> - Realiza transacciones sin gas en tu dapp habilitando meta-transacciones utilizando un SDK sencillo de usar.
 - <a href="https://www.blocknative.com/">Blocknative</a> - Eventos de blockchain antes de que ocurran. La cartera de herramientas para desarrolladores de Blocknative facilita la construcción con datos de mempool.
-  - <a href="https://www.useweb3.xyz/">useWeb3.xyz</a> - Un resumen curado de los mejores y más recientes recursos sobre Ethereum, blockchain y desarrollo Web3.
+- <a href="https://www.useweb3.xyz/">useWeb3.xyz</a> - Un resumen curado de los mejores y más recientes recursos sobre Ethereum, blockchain y desarrollo Web3.
