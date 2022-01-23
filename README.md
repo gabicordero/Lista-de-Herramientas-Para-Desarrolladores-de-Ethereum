@@ -122,4 +122,39 @@ Este recurso se centra en las herramientas para desarrolladores, pero el reposit
 * [Notify.js](https://blocknative.com/notify) - Entregue notificaciones en tiempo real a sus usuarios. Con soporte integrado para aceleraciones y cancelaciones, Blocknative Notify.js ayuda a los usuarios a realizar transacciones con confianza. Notify.js es fácil de integrar y rápido de personalizar.
 
 #### Backend Ethereum APIs
+* [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
+* [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
+* [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
+* [Web3j](https://github.com/web3j/web3j) - Java Web3
+* [Nethereum](https://nethereum.com/) - .Net Web3
+* [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
+* [rust-web3](https://github.com/tomusdrw/rust-web3) - Rust Web3
+* [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
+* [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
+* [Eventeum](https://github.com/ConsenSys/eventeum) - Un puente entre los eventos de contratos inteligentes de Ethereum y los microservicios backend, escrito en Java por Kauri
+* [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC cliente para la cadena de bloques Ethereum
+* [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - Una puerta de enlace que le permite ejecutar varios nodos de Ethereum con fines de redundancia y equilibrio de carga. Se puede ejecutar como una alternativa a (o encima de) Infura. Escrito en Golang. 
+* [EthContract](https://github.com/AgileAlpha/eth_contract) - Un conjunto de métodos auxiliares para ayudar a consultar contratos inteligentes de ETH en Elixir
+* [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - Un Servicio MESG para interactuar con cualquier contrato de Ethereum basado en su dirección y ABI.
+* [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - Un servicio MESG para interactuar con eventos de Ethereum e interactuar con él.
+* [Marmo](https://marmo.io/) - Python, JS y Java SDK para simplificar las interacciones con Ethereum. Utiliza retransmisores para descargar los costos de transacción a los retransmisores.
+* [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - proporciona capacidades de registro avanzadas para aplicaciones y redes de Ethereum, incluido un lenguaje de consulta, un procesador de consultas y generación de código de registro
 
+#### Herramientas Bootstrap/listas para usar
+* [Truffle boxes](https://trufflesuite.com/boxes) - Componentes empaquetados para el ecosistema Ethereum
+* [Create Eth App](https://github.com/paulrberg/create-eth-app) - Cree aplicaciones frontend impulsadas por Ethereum con un solo comando
+* [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Ejecute una red privada de nodos Besu en un contenedor Docker
+* [Testchains](https://github.com/Nethereum/TestChains) - Cadenas de desarrollo .NET preconfiguradas para una respuesta rápida (PoA)
+** [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer (muestra funcional)
+* [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Ejecute una red Raiden local en contenedores docker para fines de demostración y prueba
+* [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Scripts de implementación listos para usar para redes PoA privadas
+* [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Tutorial paso a paso para construir una cadena de prueba PoA con 2 nodos con consenso de ronda de autoridad de paridad
+* [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Scripts de implementación listos para usar para redes PoW privadas
+* [Kaleido](https://kaleido.io/) - Use Kaleido para poner en marcha una red de cadena de bloques de consorcio. Excelente para PoC y pruebas
+* [Cheshire](https://github.com/endless-nameless-inc/cheshire) - Una implementación de sandbox local de la API de CryptoKitties y contratos inteligentes, disponible como Truffle Box
+* [aragonCLI](https://github.com/aragon/aragon-cli) - aragonCLI se utiliza para crear y desarrollar aplicaciones y organizaciones de Aragon.
+* [ColonyJS](https://github.com/JoinColony/colonyJS) - Cliente de JavaScript que proporciona una API para interactuar con los contratos inteligentes de Colony Network.
+* [ArcJS](https://github.com/daostack/arc.js) - Biblioteca que facilita el acceso de la aplicación javascript a los contratos inteligentes DAOstack Arc ethereum.
+* [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - Cliente de JavaScript que proporciona una API para interactuar con Arkane Network, un proveedor de billetera para crear dapps fáciles de usar.
+* [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard es la manera rápida y fácil de agregar compatibilidad con múltiples billeteras a su proyecto. Con módulos integrados para más de 20 carteras únicas de hardware y software, Onboard le ahorra tiempo y dolores de cabeza.
+* [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework para construir dApps de Ethereum de una sola página
